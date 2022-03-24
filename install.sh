@@ -1,6 +1,5 @@
 #!/bin/sh
 
-set -e
 
 echo "Beginning installation of spicetify-fluent"
 echo "https://github.com/williamckha/spicetify-fluent"
