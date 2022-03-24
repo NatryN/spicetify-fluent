@@ -6,7 +6,6 @@ echo "Beginning installation of spicetify-fluent"
 echo "https://github.com/williamckha/spicetify-fluent"
 
 # Give time for user to cancel via CTRL+C
-sleep 3s
 
 # Check if ~\.spicetify-cli\Themes\Fluent directory exists
 spicePath=dirname "$(spicetify -c)"
